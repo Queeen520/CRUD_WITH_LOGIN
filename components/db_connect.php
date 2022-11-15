@@ -15,4 +15,5 @@ if ($connect->connect_error) {
 /*
 else {
      echo "Successfully Connected";
- }*/
+ }
+ */
